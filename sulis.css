@@ -20,6 +20,7 @@ body {
     border-radius: 15px;
     margin-top: 30px;
 	width: 100%;
+    border: 5px solid white;
 }
 
 .icon
@@ -47,4 +48,26 @@ filter: drop-shadow(0px 0px 15px orange);
     font-style: italic;
     padding: 20px;
     background-color: #99cde2;
+}
+
+.kartya {
+    border-radius: 5px;
+    color: blue;
+    background-color: white;
+    padding: 10px;
+    text-align: center;  
+}
+
+.bekezdes {
+    font-weight: bold;
+}
+
+#zold_ragyogas
+{
+-webkit-filter: drop-shadow(0px 0px 15px green);
+filter: drop-shadow(0px 0px 15px green);
+}
+
+.nyil {
+    height: 1em;
 }
